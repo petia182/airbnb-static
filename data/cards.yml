@@ -1,0 +1,22 @@
+seb_home:
+  name: "Seb's home"
+  description: "Lovely room in Paris"
+  background_image: "card-paris.jpg"
+  city: "Paris"
+  avatar: "seb.jpg"
+
+anne_home:
+  name: "Anne's home"
+  description: "Nice flat in the city center"
+  background_image: "card-brussels.jpeg"
+  city: "Brussels"
+  avatar: "anne.jpg"
+
+romain_home:
+  name: "Romain's home"
+  description: "Great flat in Shoreditch"
+  background_image: "card-london.jpeg"
+  city: "London"
+  avatar: "romain.jpeg"
+
+
